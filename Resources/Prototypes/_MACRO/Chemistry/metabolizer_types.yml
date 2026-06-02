@@ -13,3 +13,7 @@
 - type: metabolizerType
   id: Decapoid
   name: metabolizer-type-decapoid
+
+- type: metabolizerType
+  id: Colonid
+  name: metabolizer-type-colonid
